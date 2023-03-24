@@ -8,8 +8,11 @@ Article 1: [My Coffee Breaks with ChatGPT - Insights and Tips for Using ChatGPT 
 
 Article 2: [My Coffee Breaks with ChatGPT - Insights and Tips for Using ChatGPT in Real World Data Science Work -  Part 2: Creating Time-Series Models](https://medium.com/@jbraun_44616/my-coffee-breaks-with-chatgpt-490f1511c982)
 
-The tips identified in the articles are consolidated in this README file.
+The tips identified in the articles are consolidated and listed further below in this README file.
 
+The data used in these articles, modified and summarized versions of which appear in this repository, come from the [City of Chicago Open Data Portal](https://data.cityofchicago.org/). The Terms of Use for Chicago Data are [here](https://www.chicago.gov/city/en/narr/foia/data_disclaimer.html). Chicago 311 Service Request data and the Chicago Crime data are licensed for non-commercial use under [CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US). Attribution: 311 Service Request data — City of Chicago; Crime data — Chicago Police Department. The City of Chicago requires the following disclosure when, as here, its data are used:
+
+> “This site provides applications using data that has been modified for use from its original source, www.cityofchicago.org, the official website of the City of Chicago.  The City of Chicago makes no claims as to the content, accuracy, timeliness, or completeness of any of the data provided at this site.  The data provided at this site is subject to change at any time.  It is understood that the data provided at this site is being used at one’s own risk.”
 
 ## Tips and Suggestions from the Articles
 
